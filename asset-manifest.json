@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/GPT3-React/static/css/main.7f684345.css",
+    "main.js": "/GPT3-React/static/js/main.5921af4d.js",
+    "static/media/ai.png": "/GPT3-React/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/possibility.png": "/GPT3-React/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/people.png": "/GPT3-React/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/GPT3-React/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
+    "index.html": "/GPT3-React/index.html",
+    "main.7f684345.css.map": "/GPT3-React/static/css/main.7f684345.css.map",
+    "main.5921af4d.js.map": "/GPT3-React/static/js/main.5921af4d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f684345.css",
+    "static/js/main.5921af4d.js"
+  ]
+}
