@@ -52,3 +52,18 @@
        
     }
 }
+
+@media screen and (max-width: 700px){
+    .gpt3_blog_container_groupB{
+       grid-template-columns: repeat(1, 1fr);
+    }
+
+    .gpt3_blog_container_groupA .gpt3_blog_container_article{
+        width: 100%;
+    }
+
+    .gpt3_blog_heading h1{
+        font-size: 46px;
+        line-height: 52px;
+    }
+}
